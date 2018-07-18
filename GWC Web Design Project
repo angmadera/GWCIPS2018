@@ -1,0 +1,74 @@
+ <!DOCTYPE html>
+ <title>Project GWC</title>
+ <meta name="viewport" content="width=device-width">
+
+<style>
+    html {
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqYuJv4vjyExM6Llr1K3jykmr2DmmHp6Hu1TekCLoSWN9JuQiS");
+    }
+    h1 { 
+        text-align: center;
+           color: #FF71B5;
+           font: bold 48px 'Times New Roman', serif;
+           margin: 0;
+           text-decoration: underline;
+    }
+    td {
+        text-align:center;
+           color: #FF71B5;
+           font: bold 20px 'Times New Roman', serif;
+    }
+    h2 {
+          text-align: center;
+           color: #FF71B5;
+           font: bold 30px 'Times New Roman', serif;
+           text-align: left;
+            text-decoration: underline;
+    }
+    h3 {
+         text-align: center;
+           color:  #FF71B5;
+           font: bold 20px 'Times New Roman', serif;
+           text-align: left;
+           margin: 0px;
+    }
+    img {
+    border: 8px solid  #FF71B5;
+    box-shadow: 0 10px 10px -5px black;
+    width:300;
+    margin: 0px 0px 10px 30px;
+    }
+    ul {
+        text-align: center;
+           color:  #FF71B5;
+           font: bold 20px 'Times New Roman', serif;
+           text-align: left;
+           margin: 0px;
+    }
+    a {
+    color: #FF71B5;
+    }
+</style> 
+<h1>Girls Who Code</h1>
+<br>
+<table border="3" bordercolor="#FF71B5" cell padding ="2" cell spacing ="2" width ="100%">
+    <td>Home</td>
+    <td><a href="https://www.girlswhocode.com/about-us/">About Us</a></td>
+    <td>Contact</td>
+</tr>
+</table>
+<table style="border: 5px solid transparent;"border="2" cell padding="2" cellspacing="2" width="100%" border-color="#000 transparent transparent #000">
+    <td><h2>About Us</h2>
+        <h3>Learn to code! Free summer programs and after-school clubs for teen girls. Explore coding in a fun and friendly environment. Find a program near you!</h3>
+    <br><h2>Favorite Websites</h2>
+    <ul>
+        <a href="https://girlswhocode.com/"><li>Girls Who Code</li></a>
+        <a href="https://hq.girlswhocode.com/login?redirectTo=/"><li>Girls Who Code HQ</li></a>
+        <a href="https://www.codecademy.com/learn"><li>Codecademy</li></a>
+        <a href="https://codeavengers.com/"><li>Code Avengers</li></a>
+    </ul>
+    
+    
+    </td>
+    <td><img src = "https://s7d2.scene7.com/is/image/PetSmart/ARTHMB-PuppyProofingYourHome-20160818?$AR1104$">
+</table>
