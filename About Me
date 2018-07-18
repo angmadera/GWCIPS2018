@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<title>Profile</title>
+<meta name="viewport" content="width=device-width">
+
+    <style>
+        html {
+        background-image: url("https://wallpapertag.com/wallpaper/middle/a/e/3/278305-top-tumblr-background-2160x1920-lockscreen.jpg")
+        }
+       h1 {
+           text-align: center;
+           color: #006BB0;
+           font: bold 48px 'Roboto Slab', serif;
+           margin: 0;
+           text-decoration: underline;
+           text-shadow: 1px 1px 4px darkgrey, 0px 1px 0px gray, 0px 2px 0px lightslategray, 0px 3px 0px lightslategray, 0px 4px 0px black;
+       }
+       h2 {
+           text-align: left;
+           color: #006BB0;
+           font: 20px 'Roboto Slab', serif;
+           margin: 1px;
+       }
+           
+    </style>
+    <h1>About Me</h1>
+    <br>
+    <img style="margin: 0px 10px 10px 100px;" data-original-height="2300" data-original-width="2000" height="250" src="https://www.planwallpaper.com/static/images/captain-america.jpg" width="300" title="Captain America" /></div>
+
+    <style>
+  img {
+    border: 8px solid #006BB0;
+    margin: 0 auto 0 auto;
+    box-shadow: 0 10px 10px -5px black;
+}
+</style>
+<h2><strong>Name:</strong> Angelica Madera</h2><div></div>
+<h2><strong>Birthday:</strong> May 9<sup>th</sup>, 2001</h2><div></div>
+<h2><strong>Birthplace:</strong> Chicago, Illinois, USA</h2><div></div>
+<h2><strong>Zodiac sign:</strong> Taurus</h2><div></div>
+<br>
+<h2><strong>Hobbies:</strong></h2>
+<ul>
+    <li>Reading comic books
+    <li>Running
+    <li>Listening to music
+    <li>Watching Netflix or Marvel movies
+    <li>Eating chocolate
+    <li>Coding (apparently)
+    <li>Go on random adventures
+    </li>
+<style>
+    ul {
+        color: #006BB0;
+        font: 20px 'Roboto Slab', serif;
+        margin:0px;
+    }
+</style>
+</ul>
+<br>
+<h2><u></u><strong>Favorite Comicbook Characters:</strong></u></h2>
+<br>
+<img src="https://media1.popsugar-assets.com/files/thumbor/4Ehk31JOquJIO6SpXpL7fiPxLQo/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2015/04/21/871/n/1922283/feb087b3eeef9a97_3807948-cap_gif/i/He-Also-Very-Cute-Uniform.gif" title = "Steve Rogers - Captain America">
+<br>
+<br>
+<img src="https://media1.giphy.com/media/l0HlGreOkzgb64A8w/giphy.gif" title="Diana Prince - Wonder Woman">
+<br>
+<br>
+<img src="https://media.giphy.com/media/IH2wF6mdyAszS/source.gif" title="Dick Grayson - Nightwing">
+<br>
+<br>
+<br>
+<h2><u><strong>Favorite Music Artists:</strong></u></h2>
+<br>
+<a href="https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX?autoplay=true&v=A"><img style="margin: 0px 10px 10px 100px;" data-original-height="2300" data-original-width="2000" height="320" src="https://cps-static.rovicorp.com/3/JPG_500/MI0000/861/MI0000861488.jpg?partner=allrovi.com" title = "Fall Out Boy"></a>
+<br>
+<br>
+<a href="https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?autoplay=true&v=A"><img style="margin: 0px 10px 10px 100px;" data-original-height="2300" data-original-width="2000" height="290" src="https://images.genius.com/283999dcc3d4e9206a89d820d92b1886.1000x900x1.jpg" title = "Billie Eilish"></a>
+<br>
+<br>
+<a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx?autoplay=true&v=A"><img style="margin: 0px 10px 10px 100px;" data-original-height="2300" data-original-width="2000" height="320" src="https://www.amoeba.com/admin/uploads/albums/covers/other//TwentyOnePilots_Blurryface(LP).jpg" title = "Twenty One Pilots"></a>
+<br>
+<br>
+<a href="https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG?autoplay=true&v=A"><img style="margin: 0px 10px 10px 100px;" data-original-height="2300" data-original-width="2000" height="320" src="https://is5-ssl.mzstatic.com/image/thumb/Music/c1/a5/ef/mzi.nrcvnsnu.jpg/1200x630bb.jpg" title = "Florence + the Machine"></a>
+    </body>
